@@ -1,6 +1,6 @@
 module github.com/evmos/evmos/v20
 
-go 1.22.8
+go 1.23
 
 require (
 	cosmossdk.io/api v0.7.6
